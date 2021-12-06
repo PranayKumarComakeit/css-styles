@@ -1,0 +1,9 @@
+.crdbdy
+{
+    height: 500px;
+    
+    overflow:auto;
+    padding: 5px;
+    background-color: rgb(189, 189, 247);
+    margin: 10px;
+}
